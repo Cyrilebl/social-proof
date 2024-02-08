@@ -124,6 +124,7 @@ body {
 
 .reviews p {
   line-height: 20px;
+  font-weight: 500;
 }
 
 .reviews span {
